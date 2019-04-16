@@ -6,10 +6,7 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.samples.petclinic.model.PetType;
-import org.springframework.samples.petclinic.repository.OwnerRepository;
 import org.springframework.samples.petclinic.repository.PetRepository;
-import org.springframework.samples.petclinic.repository.VetRepository;
-import org.springframework.samples.petclinic.repository.VisitRepository;
 
 import java.util.ArrayList;
 import java.util.Collection;
