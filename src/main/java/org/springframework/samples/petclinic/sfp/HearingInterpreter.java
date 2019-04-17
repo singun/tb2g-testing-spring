@@ -7,7 +7,7 @@ public class HearingInterpreter {
 
 	private final WordProducer wordProducer;
 
-	HearingInterpreter(WordProducer wordProducer) {
+	public HearingInterpreter(WordProducer wordProducer) {
 		this.wordProducer = wordProducer;
 	}
 
